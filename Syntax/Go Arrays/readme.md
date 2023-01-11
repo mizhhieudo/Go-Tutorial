@@ -182,4 +182,7 @@ func main() {
 
   fmt.Println(len(arr1))
   fmt.Println(len(arr2))
+}
 ```
+
+    result 4 6
